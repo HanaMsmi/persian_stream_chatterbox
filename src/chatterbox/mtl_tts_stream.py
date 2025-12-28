@@ -369,7 +369,6 @@ class ChatterboxMultilingualStreamingTTS:
                 temperature=temperature,
                 cfg_weight=cfg_weight,
                 repetition_penalty=repetition_penalty,
-                min_p=min_p,
                 top_p=top_p,
             )
             # Extract only the conditional batch.
