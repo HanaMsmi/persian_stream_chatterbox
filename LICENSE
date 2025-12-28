@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This project is based on:
-- Chatterbox TTS by Resemble AI (https://github.com/resemble-ai/chatterbox)
-- Chatterbox-Streaming by David Browne (https://github.com/davidbrowne17/chatterbox-streaming)
-
-Both original projects are licensed under the MIT License.
-

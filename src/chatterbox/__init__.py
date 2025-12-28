@@ -1,12 +1,3 @@
-"""
-Persian Streaming Chatterbox TTS
-Multilingual Text-to-Speech with Streaming Support for Persian and 23 other languages.
-"""
-from .mtl_tts_stream import ChatterboxMultilingualStreamingTTS, SUPPORTED_LANGUAGES, StreamingMetrics
-
-__all__ = [
-    "ChatterboxMultilingualStreamingTTS",
-    "SUPPORTED_LANGUAGES",
-    "StreamingMetrics",
-]
-
+from .tts import ChatterboxTTS
+from .vc import ChatterboxVC
+from .mtl_tts import ChatterboxMultilingualTTS, SUPPORTED_LANGUAGES
